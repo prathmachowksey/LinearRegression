@@ -1,4 +1,4 @@
-# LinearRegression
+# linear-regression
 In this assignment, multivariate linear regression models have been developed for the [3D Road Network (North Jutland, Denmark) Data Set](https://archive.ics.uci.edu/ml/datasets/3D+Road+Network+(North+Jutland%2C+Denmark)) using gradient descent, stochastic gradient descent, solving normal equations and gradient descent with regularisation. R squared, RMSE and Squared Error values have been calculated and compared for each model.
 
 ## Dataset
